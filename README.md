@@ -30,8 +30,20 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="616" height="334" alt="image" src="https://github.com/user-attachments/assets/9e92b0e2-6e06-4bab-841a-453169ee3cb3" />
+tabulation
+line regulation 
+<img width="891" height="508" alt="image" src="https://github.com/user-attachments/assets/f3f1e3f6-dd11-4ec7-b854-39dba35d49ea" />
+load regulation 
+<img width="825" height="454" alt="image" src="https://github.com/user-attachments/assets/f290cdbd-2cf9-4bf5-8117-aee71055c113" />
 
 V-I & REGULATION CHARACTERISTICS:
+model graph
+line regulation 
+<img width="883" height="479" alt="image" src="https://github.com/user-attachments/assets/2c79e580-43e7-4755-a7d3-0452e7f161a3" />
+load regulation 
+<img width="889" height="482" alt="image" src="https://github.com/user-attachments/assets/530331da-5f97-497c-b219-2010b529ecbf" />
+
 
 PRECAUTIONS:
 
